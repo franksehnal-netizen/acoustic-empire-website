@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+
+# Local env / secrets (form service keys etc.)
+.env
+.env.local
+
+# In case a small dev/build tool gets added later
+node_modules/
